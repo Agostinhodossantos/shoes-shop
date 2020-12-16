@@ -27,7 +27,7 @@ I create blog posts and open source packages mainly about python and data engine
  ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://firebasestorage.googleapis.com/v0/b/h2o-matigwenta-filhos-3d23a.appspot.com/o/Screenshot%20(23).png?alt=media&token=03cb6cd9-d144-4ff3-94ba-bc9740685981"></a>
 </p>
 
 ### My Digital Garden 🌱
